@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mitsubishi", "mitsubishi\mitsubishi.pyproj", "{52F2E2DC-79D8-41AE-88BB-471B78182740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F2E2DC-79D8-41AE-88BB-471B78182740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F2E2DC-79D8-41AE-88BB-471B78182740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52EE4792-4674-4A74-9003-B88FD388F405}
+	EndGlobalSection
+EndGlobal
